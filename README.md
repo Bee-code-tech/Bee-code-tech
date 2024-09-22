@@ -62,4 +62,4 @@ I'm a passionate and experienced developer specializing in full-stack web develo
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bee-code-tech&show_icons=true&locale=en&layout=compact&theme=algolia" alt="bee-code-tech" />
 </p>
 
-<a href="https://github.com/Bee-code-tech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bee-code-tech&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
