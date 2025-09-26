@@ -10,45 +10,33 @@ I am a **Software Engineer** and the **Founder at CodePulse Academy**. I love bu
 ## 🎯 Tech Stack
 
 ### 🌐 Frontend Development
-- **Modern React Architecture**: Building scalable SPAs with component composition, custom hooks, and performance optimization
-- **Type-Safe Development**: Leveraging TypeScript for robust applications with strict typing and better developer experience
-- **State Management**: Implementing complex state logic with Redux Toolkit and Zustand for optimal performance
-- **UI/UX Excellence**: Creating stunning interfaces with Shadcn UI components and smooth animations using Framer Motion
-- **Styling Mastery**: Responsive designs with TailwindCSS utility-first approach and component-based styling
+- **React & TypeScript**: Building scalable SPAs with modern architecture
+- **State Management**: Redux Toolkit, Zustand for optimal performance
+- **UI Libraries**: Shadcn UI, Framer Motion animations
+- **Styling**: TailwindCSS utility-first approach
 
 ### 📱 Mobile Development
-- **Cross-Platform Expertise**: Developing native-quality apps with Flutter's widget system and React Native's bridge architecture
-- **Performance Optimization**: Implementing efficient state management, lazy loading, and memory optimization techniques
-- **Native Integration**: Building custom platform channels, native modules, and accessing device-specific features
-- **Development Workflow**: Streamlined development with Expo for rapid prototyping and Xcode/Android Studio for production builds
-- **App Store Deployment**: End-to-end deployment pipeline with automated testing and distribution
+- **Cross-Platform**: Flutter & React Native for native-quality apps
+- **Development**: Expo, Xcode, Android Studio workflows
+- **Integration**: Custom platform channels and native modules
 
 ### 🔧 Backend Development
-- **API Architecture**: Designing RESTful and GraphQL APIs with proper authentication, authorization, and rate limiting
-- **Database Design**: Implementing efficient database schemas with MongoDB aggregation pipelines and PostgreSQL optimization
-- **Microservices**: Building scalable backend systems with NestJS dependency injection and modular architecture
-- **Real-time Features**: WebSocket implementations for live updates and real-time communication
-- **Performance & Security**: Implementing caching strategies, query optimization, and security best practices
+- **APIs**: RESTful and GraphQL with Node.js, NestJS
+- **Databases**: MongoDB, PostgreSQL optimization
+- **Real-time**: WebSocket implementations
+- **Security**: Authentication, authorization, best practices
 
 ### ⛓️ Web3 & Blockchain
-- **Smart Contract Development**: Writing secure, gas-optimized Solidity contracts with comprehensive testing and auditing
-- **DeFi Integration**: Building decentralized applications with DeFi protocols, token standards, and liquidity management
-- **Web3 Frontend**: Seamless wallet integration with RainbowKit, transaction handling, and blockchain state management
-- **Multi-Chain Development**: Deploying across Ethereum, Polygon, and BSC with cross-chain compatibility
-- **Development Tooling**: Advanced testing with Hardhat, deployment automation, and contract verification
+- **Smart Contracts**: Solidity development and testing
+- **DeFi**: Protocol integration and dApp development
+- **Tools**: Hardhat, Wagmi, RainbowKit wallet integration
+- **Multi-Chain**: Ethereum, Polygon, BSC deployment
 
-### 🛠️ DevOps & Deployment
-- **CI/CD Pipelines**: Automated testing, building, and deployment workflows with GitHub Actions and AWS CodePipeline
-- **Containerization**: Docker-based development environments and production deployments with container orchestration
-- **Cloud Architecture**: Serverless functions, auto-scaling infrastructure, and cost-optimized cloud solutions
-- **Monitoring & Logging**: Application performance monitoring, error tracking, and comprehensive logging systems
-- **Testing Strategy**: Unit testing, integration testing, and end-to-end testing with comprehensive coverage
-
-### 🚀 Innovation & Learning
-- **AI Integration**: Exploring machine learning APIs, AI-powered features, and intelligent automation
-- **System Architecture**: Designing scalable, maintainable systems with clean code principles and design patterns
-- **Community Building**: Sharing knowledge through CodePulse Academy and mentoring aspiring developers
-- **Continuous Learning**: Staying updated with emerging technologies, best practices, and industry trends
+### 🛠️ DevOps & Tools
+- **CI/CD**: GitHub Actions, automated deployment
+- **Cloud**: AWS services, Docker containerization
+- **Testing**: Jest, Cypress, comprehensive coverage
+- **Monitoring**: Performance tracking and error logging
 
 ---
 
