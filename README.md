@@ -9,9 +9,9 @@ I am a **Software Engineer** and the **Founder at CodePulse Academy**. I love bu
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
+<table width="100%" style="border: none;">
 <tr>
-<td valign="top" width="33%" align="center">
+<td valign="top" width="50%" align="left">
 
 ### 🌐 Frontend Technologies
 <table>
@@ -40,7 +40,7 @@ I am a **Software Engineer** and the **Founder at CodePulse Academy**. I love bu
 </table>
 
 </td>
-<td valign="top" width="33%" align="center">
+<td valign="top" width="50%" align="left">
 
 ### 🔧 Backend & Databases
 <table>
@@ -69,38 +69,9 @@ I am a **Software Engineer** and the **Founder at CodePulse Academy**. I love bu
 </table>
 
 </td>
-<td valign="top" width="33%" align="center">
-
-### 📱 Mobile Development
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=flutter" width="35"/><br/>Flutter
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=dart" width="35"/><br/>Dart
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=react" width="35"/><br/>React Native
-</td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35"/><br/>Expo
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="35"/><br/>Android Studio
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="35"/><br/>Xcode
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%" align="center">
+<td valign="top" width="50%" align="left">
 
 ### ⛓️ Web3 & Blockchain
 <table>
@@ -129,7 +100,7 @@ I am a **Software Engineer** and the **Founder at CodePulse Academy**. I love bu
 </table>
 
 </td>
-<td valign="top" width="33%" align="center">
+<td valign="top" width="50%" align="left">
 
 ### 🛠️ DevOps & Tools
 <table>
@@ -158,24 +129,49 @@ I am a **Software Engineer** and the **Founder at CodePulse Academy**. I love bu
 </table>
 
 </td>
-<td valign="top" width="33%" align="center">
+</tr>
+<tr>
+<td valign="top" width="50%" align="left">
 
-### 🚀 Additional Tools
+### 🛠️ DevOps & Tools
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://skillicons.dev/icons?i=graphql" width="35"/><br/>GraphQL
+<img src="https://skillicons.dev/icons?i=git" width="35"/><br/>Git
 </td>
 <td align="center" width="50%">
-<img src="https://skillicons.dev/icons?i=prisma" width="35"/><br/>Prisma
+<img src="https://skillicons.dev/icons?i=docker" width="35"/><br/>Docker
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://skillicons.dev/icons?i=jest" width="35"/><br/>Jest
+<img src="https://skillicons.dev/icons?i=aws" width="35"/><br/>AWS
 </td>
 <td align="center" width="50%">
-<img src="https://skillicons.dev/icons?i=cypress" width="35"/><br/>Cypress
+<img src="https://skillicons.dev/icons?i=vscode" width="35"/><br/>VS Code
+</td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="50%" align="left">
+
+### 📱 Mobile Development
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=flutter" width="35"/><br/>Flutter
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=dart" width="35"/><br/>Dart
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=react" width="35"/><br/>React Native
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="35"/><br/>Android Studio
 </td>
 </tr>
 </table>
