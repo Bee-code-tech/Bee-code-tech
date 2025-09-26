@@ -7,40 +7,7 @@ I am a **Software Engineer** and the **Founder at CodePulse Academy**. I love bu
 
 ---
 
-## 🎯 Tech Stack
-
-### 🌐 Frontend Development
-- **React & TypeScript**: Building scalable SPAs with modern architecture
-- **State Management**: Redux Toolkit, Zustand for optimal performance
-- **UI Libraries**: Shadcn UI, Framer Motion animations
-- **Styling**: TailwindCSS utility-first approach
-
-### 📱 Mobile Development
-- **Cross-Platform**: Flutter & React Native for native-quality apps
-- **Development**: Expo, Xcode, Android Studio workflows
-- **Integration**: Custom platform channels and native modules
-
-### 🔧 Backend Development
-- **APIs**: RESTful and GraphQL with Node.js, NestJS
-- **Databases**: MongoDB, PostgreSQL optimization
-- **Real-time**: WebSocket implementations
-- **Security**: Authentication, authorization, best practices
-
-### ⛓️ Web3 & Blockchain
-- **Smart Contracts**: Solidity development and testing
-- **DeFi**: Protocol integration and dApp development
-- **Tools**: Hardhat, Wagmi, RainbowKit wallet integration
-- **Multi-Chain**: Ethereum, Polygon, BSC deployment
-
-### 🛠️ DevOps & Tools
-- **CI/CD**: GitHub Actions, automated deployment
-- **Cloud**: AWS services, Docker containerization
-- **Testing**: Jest, Cypress, comprehensive coverage
-- **Monitoring**: Performance tracking and error logging
-
----
-
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack
 
 <table width="100%">
 <tr>
