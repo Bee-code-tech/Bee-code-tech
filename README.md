@@ -1,65 +1,356 @@
-## ![Hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Al-Ameen
+# 🚀 Fullstack Engineer & Tech Educator
 
-### Full-Stack Developer • Mobile App Developer • Web3 Enthusiast
+### Hi there 👋, I am Al-Ameen.
+I am a **Software Engineer** and the **Founder at CodePulse Academy**. I love building scalable web and mobile applications, exploring Web3 technologies, and sharing knowledge with the developer community. When I'm not busy coding or creating educational content, I usually mentor aspiring developers or experiment with new blockchain protocols.
 
-I'm a passionate and experienced developer specializing in full-stack web development, mobile app creation, and Web3 technologies. With a strong foundation in both frontend and backend systems, I enjoy building seamless and scalable applications that solve real-world problems. My journey in the tech world has equipped me with a versatile skill set and a commitment to continuous learning.
+- ⚡ Fun fact: I'm passionate about decentralized applications and have built several Web3 projects. I also run CodePulse Academy where I teach modern development practices to the next generation of developers.
 
-- 🌍 I'm based in Nigeria
-- ✉️ You can reach me at [babawaleolatunji64@gmail.com](mailto:babawaleolatunji64@gmail.com)
+---
 
-### Skills
+## 🎯 Tech Stack
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
-</p>
+### 🌐 Frontend Development
+- **Modern React Architecture**: Building scalable SPAs with component composition, custom hooks, and performance optimization
+- **Type-Safe Development**: Leveraging TypeScript for robust applications with strict typing and better developer experience
+- **State Management**: Implementing complex state logic with Redux Toolkit and Zustand for optimal performance
+- **UI/UX Excellence**: Creating stunning interfaces with Shadcn UI components and smooth animations using Framer Motion
+- **Styling Mastery**: Responsive designs with TailwindCSS utility-first approach and component-based styling
 
-### Socials
+### 📱 Mobile Development
+- **Cross-Platform Expertise**: Developing native-quality apps with Flutter's widget system and React Native's bridge architecture
+- **Performance Optimization**: Implementing efficient state management, lazy loading, and memory optimization techniques
+- **Native Integration**: Building custom platform channels, native modules, and accessing device-specific features
+- **Development Workflow**: Streamlined development with Expo for rapid prototyping and Xcode/Android Studio for production builds
+- **App Store Deployment**: End-to-end deployment pipeline with automated testing and distribution
 
-<p align="left">
-  <a href="https://www.codepen.io/Bee-code-tech" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></picture></a>
-  <a href="https://www.dev.to/Bee-code-tech" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></picture></a>
-  <a href="https://www.dribbble.com/Bee-code-tech" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></picture></a>
-  <a href="https://www.facebook.com/yourusername" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></picture></a>
-  <a href="https://www.github.com/Bee-code-tech" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a>
-  <a href="http://www.instagram.com/yourusername" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></picture></a>
-  <a href="https://www.linkedin.com/in/Bee-code-tech" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a>
-  <a href="https://www.stackoverflow.com/users/youruserid" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></picture></a>
-  <a href="https://www.x.com/@Bee-code-tech" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></picture></a>
-  <a href="https://www.youtube.com/@yourusername" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></picture></a>
-</p>
+### 🔧 Backend Development
+- **API Architecture**: Designing RESTful and GraphQL APIs with proper authentication, authorization, and rate limiting
+- **Database Design**: Implementing efficient database schemas with MongoDB aggregation pipelines and PostgreSQL optimization
+- **Microservices**: Building scalable backend systems with NestJS dependency injection and modular architecture
+- **Real-time Features**: WebSocket implementations for live updates and real-time communication
+- **Performance & Security**: Implementing caching strategies, query optimization, and security best practices
 
-### My GitHub Stats
+### ⛓️ Web3 & Blockchain
+- **Smart Contract Development**: Writing secure, gas-optimized Solidity contracts with comprehensive testing and auditing
+- **DeFi Integration**: Building decentralized applications with DeFi protocols, token standards, and liquidity management
+- **Web3 Frontend**: Seamless wallet integration with RainbowKit, transaction handling, and blockchain state management
+- **Multi-Chain Development**: Deploying across Ethereum, Polygon, and BSC with cross-chain compatibility
+- **Development Tooling**: Advanced testing with Hardhat, deployment automation, and contract verification
 
-<a href="http://www.github.com/Bee-code-tech"><img src="https://github-readme-stats.vercel.app/api?username=Bee-code-tech&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bee-code-tech's GitHub stats" /></a>
+### 🛠️ DevOps & Deployment
+- **CI/CD Pipelines**: Automated testing, building, and deployment workflows with GitHub Actions and AWS CodePipeline
+- **Containerization**: Docker-based development environments and production deployments with container orchestration
+- **Cloud Architecture**: Serverless functions, auto-scaling infrastructure, and cost-optimized cloud solutions
+- **Monitoring & Logging**: Application performance monitoring, error tracking, and comprehensive logging systems
+- **Testing Strategy**: Unit testing, integration testing, and end-to-end testing with comprehensive coverage
 
-<a href="http://www.github.com/Bee-code-tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bee-code-tech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🚀 Innovation & Learning
+- **AI Integration**: Exploring machine learning APIs, AI-powered features, and intelligent automation
+- **System Architecture**: Designing scalable, maintainable systems with clean code principles and design patterns
+- **Community Building**: Sharing knowledge through CodePulse Academy and mentoring aspiring developers
+- **Continuous Learning**: Staying updated with emerging technologies, best practices, and industry trends
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bee-code-tech&show_icons=true&locale=en&layout=compact&theme=algolia" alt="bee-code-tech" />
-</p>
+---
 
+## 🛠️ Technology Arsenal
 
+<table width="100%">
+<tr>
+<td valign="top" width="33%" align="center">
+
+### 🌐 Frontend Technologies
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=react" width="35"/><br/>React
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="35"/><br/>Next.js
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=typescript" width="35"/><br/>TypeScript
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=javascript" width="35"/><br/>JavaScript
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="35"/><br/>TailwindCSS
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=html" width="35"/><br/>HTML5
+</td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+### 🔧 Backend & Databases
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="35"/><br/>Node.js
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=express" width="35"/><br/>Express
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=nestjs" width="35"/><br/>NestJS
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="35"/><br/>MongoDB
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=postgresql" width="35"/><br/>PostgreSQL
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=firebase" width="35"/><br/>Firebase
+</td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+### 📱 Mobile Development
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=flutter" width="35"/><br/>Flutter
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=dart" width="35"/><br/>Dart
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=react" width="35"/><br/>React Native
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35"/><br/>Expo
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="35"/><br/>Android Studio
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="35"/><br/>Xcode
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%" align="center">
+
+### ⛓️ Web3 & Blockchain
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=solidity" width="35"/><br/>Solidity
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/src/assets/eth-diamond-black.png" width="35"/><br/>Ethereum
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/><br/>Ethers.js
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://avatars.githubusercontent.com/u/69685962?s=200&v=4" width="35"/><br/>Hardhat
+</td>
+<td align="center" width="33%">
+<img src="https://avatars.githubusercontent.com/u/108554348?s=200&v=4" width="35"/><br/>Wagmi
+</td>
+<td align="center" width="33%">
+<img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="35"/><br/>Truffle
+</td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+### 🛠️ DevOps & Tools
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=git" width="35"/><br/>Git
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=docker" width="35"/><br/>Docker
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=aws" width="35"/><br/>AWS
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=figma" width="35"/><br/>Figma
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=vscode" width="35"/><br/>VS Code
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=postman" width="35"/><br/>Postman
+</td>
+</tr>
+</table>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+### 🚀 Additional Tools
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=graphql" width="35"/><br/>GraphQL
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=prisma" width="35"/><br/>Prisma
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=jest" width="35"/><br/>Jest
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=cypress" width="35"/><br/>Cypress
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Professional Impact
+
+<div align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bee-code-tech&theme=tokyonight&hide_border=true&background=0D1117" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Bee-code-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bee-code-tech&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=6" />
+  
+</div>
+
+---
+
+## 🏗️ Development Approach
+
+```typescript
+interface Al_AmeenBabawaleSkills {
+  architecture: {
+    patterns: ['Clean Architecture', 'Component-Based Design', 'REST APIs'];
+    scalability: ['Database Optimization', 'Efficient State Management'];
+    security: ['JWT Authentication', 'API Security', 'Input Validation'];
+  };
+
+  development: {
+    frontend: 'Modern React with TypeScript';
+    mobile: 'Flutter & React Native Cross-platform';
+    backend: 'Node.js APIs with MongoDB/PostgreSQL';
+    web3: 'Smart Contracts with Solidity & Web3 Integration';
+  };
+
+  education: {
+    academy: 'Founder at CodePulse Academy';
+    content: 'Educational Content Creation';
+    mentorship: 'Aspiring Developer Mentorship';
+  };
+}
+```
+
+---
+
+## 🎯 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 CodePulse Academy
+- **Founder** of educational tech platform
+- **Creating content** for aspiring developers
+- **Building community** around modern web development
+- **Mentoring** students in fullstack development
+
+</td>
+<td width="50%">
+
+### 💻 Development Focus
+- **Building scalable** web and mobile applications
+- **Exploring Web3** and blockchain technologies
+- **Contributing** to open source projects
+- **Learning** and implementing best practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Skills & Learning
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-Cloud%20Services-orange?style=for-the-badge&logo=amazon-aws" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MongoDB-Database%20Design-green?style=for-the-badge&logo=mongodb" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-Frontend%20Development-61DAFB?style=for-the-badge&logo=react" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Web3-Blockchain%20Development-purple?style=for-the-badge&logo=ethereum" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📞 Let's Build Something Amazing Together
+
+<div align="center">
+  <a href="mailto:babawaleolatunji64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://linkedin.com/in/al-ameen-babawale-89ba85209">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Doctorbee_19">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://babawale.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bee-code-tech&color=00D8FF&style=for-the-badge&label=Profile+Views" />
+
+  <p><em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bee-code-tech/Bee-code-tech/output/github-contribution-grid-snake.svg" />
+</div>
